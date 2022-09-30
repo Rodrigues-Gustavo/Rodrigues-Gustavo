@@ -1,4 +1,9 @@
-# Bem vindo(a) ao meu perfil🚀
+# < / Olá! Eu sou o Gustavo Rodrigues ☕>
+<ul>
+  <li> 🧑‍💻 Cursando Engenharia de Software</li>
+  <li> ♾️ Aprimorando o JavaScript</li>
+  <li> ⚛️ Estudando React</li>
+</ul>
 <div>
   <a href="https://github.com/Rodrigues-Gustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues-Gustavo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -9,7 +14,7 @@
   
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,html,css,js,react"/>
+     <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,react"/>
    </a>
  </p>
  
