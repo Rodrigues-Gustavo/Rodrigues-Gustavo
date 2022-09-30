@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues-Gustavo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
-   <br>
+   <br> <br>
   
 <p align="center">
    <a href="https://skillicons.dev">
