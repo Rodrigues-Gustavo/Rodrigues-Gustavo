@@ -2,7 +2,7 @@
 <ul>
   <li> 🧑‍💻 Cursando Engenharia de Software</li>
   <li> ♾️ Aprimorando o JavaScript</li>
-  <li> ⚛️ Estudando React</li>
+  <li> ⚛️ Estudando React.JS</li>
 </ul>
 
 <br>
