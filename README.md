@@ -1,8 +1,8 @@
 # < / Olá! Eu sou o Gustavo Rodrigues ☕>
 <ul>
+  <li> ⚛️ Dev React js</li>
   <li> 🧑‍💻 Cursando Engenharia de Software</li>
   <li> ♾️ Aprimorando o JavaScript</li>
-  <li> ⚛️ Estudando React.JS</li>
 </ul>
 
 <br>
