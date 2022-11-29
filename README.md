@@ -2,7 +2,7 @@
 <ul>
   <li> ⚛️ Dev React js</li>
   <li> 🧑‍💻 Cursando Engenharia de Software</li>
-  <li> ♾️ Aprimorando o JavaScript</li>
+  <li> ♾️ Aprimorando o JavaScript / TypeScript</li>
 </ul>
 
 <br>
