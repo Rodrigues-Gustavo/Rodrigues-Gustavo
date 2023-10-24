@@ -1,4 +1,4 @@
-# < / Olá! Eu sou o Gustavo Rodrigues ☕>
+# < / hello World! I'm Gustavo Rodrigues ☕>
 <ul>
   <li> ☕ Dev Backend </li>
   <li> ⚛️ Dev Full stack Java | React</li>
@@ -26,7 +26,7 @@
  
  <br>
  
-  ### Pra entrar em contato comigo, segue as redes socias abaixo!
+  ### To get in touch with me, follow the social networks below!
  
 <div> 
   <a href = "https://gustavorr001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
