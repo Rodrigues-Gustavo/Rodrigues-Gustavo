@@ -1,8 +1,9 @@
 # < / Olá! Eu sou o Gustavo Rodrigues ☕>
 <ul>
-  <li> ⚛️ Dev Full stack React | Node</li>
-  <li> 🧑‍💻 Cursando Engenharia de Software</li>
-  <li> ♾️ Aprimorando o JavaScript / TypeScript</li>
+  <li> ☕ Dev Backend </li>
+  <li> ⚛️ Dev Full stack Java | React</li>
+  <li> 🧑‍💻 Studying - Bachelor of Software Engineering</li>
+  <li> ♾️ Improving Java - Spring Boot | React - Typescript - Node</li>
 </ul>
 
 <br>
@@ -17,9 +18,9 @@
   
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=react,nodejs"/>
+     <img src="https://skillicons.dev/icons?i=react,java"/>
       <br/><br/>
-     <img src="https://skillicons.dev/icons?i=ts,js,styledcomponents,sass,css,html,git"/>
+     <img src="https://skillicons.dev/icons?i=spring,nodejs,ts,js,styledcomponents,sass,css,html,git"/>
    </a>
  </p>
  
