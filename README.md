@@ -1,4 +1,4 @@
-# < / hello World! I'm Gustavo Rodrigues ☕>
+# < / Hello World! I'm Gustavo Rodrigues ☕>
 <ul>
   <li> ☕ Dev Backend </li>
   <li> ⚛️ Dev Full stack Java | React</li>
