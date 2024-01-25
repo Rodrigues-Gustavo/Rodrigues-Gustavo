@@ -3,7 +3,7 @@
   <li> ☕ Dev Backend </li>
   <li> ⚛️ Dev Java | JS</li>
   <li> 🧑‍💻 Studying - Bachelor of Software Engineering</li>
-  <li> ♾️ Improving Java | React - Typescript - Node</li>
+  <li> ♾️ Improving Java - Spring | React - Typescript - Node</li>
 </ul>
 
 <br>
@@ -18,9 +18,9 @@
   
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=react,java"/>
+     <img src="https://skillicons.dev/icons?i=java,js"/>
       <br/><br/>
-     <img src="https://skillicons.dev/icons?i=nodejs,ts,js,styledcomponents,css,html,git"/>
+     <img src="https://skillicons.dev/icons?i=spring,react,next,nodejs,ts,styledcomponents,css,html,git,postgresql,mongodb"/>
    </a>
  </p>
  
