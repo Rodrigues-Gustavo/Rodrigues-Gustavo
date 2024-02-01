@@ -1,9 +1,9 @@
-# < / Hello World! I'm Gustavo Rodrigues ☕>
+# < / Hello World! I'm Gustavo Rodrigues ☕🎈>
 <ul>
   <li> ☕ Dev Backend </li>
   <li> ⚛️ Dev Java | JS</li>
-  <li> 🧑‍💻 Studying - Bachelor of Software Engineering</li>
-  <li> ♾️ Improving Java - Spring | React - Typescript - Node</li>
+  <li> 🧑‍💻 Bachelor of Software Engineering - Student</li>
+  <li> ♾️ Java - Spring | React - Typescript - Node</li>
 </ul>
 
 <br>
